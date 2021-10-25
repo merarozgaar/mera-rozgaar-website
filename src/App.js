@@ -132,7 +132,7 @@ function App() {
         <Container className="pt-5 text-center">
           <Row>
             <Col className="mb-5" xs={{ span: 12 }}>
-              <h2 className="text-primary">{t('Popular Categories')}</h2>
+              <h2 className="text-primary">{t('Most Popular Categories')}</h2>
             </Col>
           </Row>
           <Row className="text-center">
